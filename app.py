@@ -39,7 +39,7 @@ st.markdown("""
             text-decoration: none;
         }
         .cta:hover {
-            background-color: #0284c7;
+            background-color: #B3FFD0;
         }
         a {
             color: #3b82f6;

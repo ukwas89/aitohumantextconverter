@@ -31,7 +31,7 @@ st.markdown("""
             -webkit-text-fill-color: transparent;
         }
         .cta {
-            background-color: #0ea5e9;
+            background-color: #B3E4FF;
             padding: 0.75rem 1.5rem;
             color: white;
             font-weight: 600;

@@ -59,13 +59,13 @@ st.markdown("<h1>AI to Human Text Converter</h1>", unsafe_allow_html=True)
 st.write("Make your AI content sound natural, human, and undetectable — completely free.")
 
 st.markdown(
-    '<a class="cta" href="https://aitohumantextconverterfree.net/" target="_blank">Use the Converter</a>',
+    '<a class="cta" href="https://aitohumantextconverterfree.net/" target="_blank">Use this Free Ai text to human text converter</a>',
     unsafe_allow_html=True,
 )
 
 st.markdown("## What Is It?")
 st.write("""
-The [AI to Human Text Converter](https://aitohumantextconverterfree.net/) helps turn robotic or AI-written content into text that sounds natural, clear, and convincingly human.
+The [AI to Human Text Converter Free](https://aitohumantextconverterfree.net/) helps turn robotic or AI-written content into text that sounds natural, clear, and convincingly human.
 It's fast, secure, and works with content generators like ChatGPT, Jasper, or Bard.
 """)
 

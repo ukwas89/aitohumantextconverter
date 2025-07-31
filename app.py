@@ -53,7 +53,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App content
-st.markdown('<div class="container">', unsafe_allow_html=True)
+
 
 st.markdown("<h1>AI to Human Text Converter</h1>", unsafe_allow_html=True)
 st.write("Make your AI content sound natural, human, and undetectable — completely free.")
